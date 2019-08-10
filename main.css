@@ -1,0 +1,189 @@
+body {
+    font-family:'Montserrat';
+}
+.nav-section {
+    height: 13vh;
+    background-color: pink;
+}
+.dude {
+    height: 87vh;
+    background-color: #1ABC9C;
+}
+.dude img {
+    margin-top: 7%;
+}
+.dude h1 {
+    font-family:'Montserrat';
+    font-weight: 800;
+    font-size: 4rem;
+}
+.dude h3 {
+    font-family:'Montserrat';
+    font-weight: 800;
+    font-size: 3rem;
+}
+.dude { color: white;}
+.dude p {
+    font-size: 1.5rem;
+}
+.midsection p {
+    font-family:'Montserrat';
+    font-weight: 800;
+    font-size: 2.3rem;
+}
+#hole {
+    height: 300px;
+    background-image: url('../media/cabin.png');
+    background-size: cover; 
+    background-position: center;
+}
+.midsection img {
+    border-radius: 10px;
+}
+.about h1 {
+    font-family:'Montserrat';
+    font-weight: 800;
+    font-size: 4rem;
+}
+
+.midsection h1 {
+    font-family:'Montserrat';
+    color: #2C3E50;
+    font-weight: 800;
+    font-size: 3rem;
+    text-transform: uppercase;
+}
+
+.about-us {
+    background-color: #1ABC9C;
+    color: whitesmoke;
+    padding-bottom: 100px
+}
+
+.about-us p {
+    text-justify: left !important;
+    font-size: 1.2rem;
+}
+.about-us h1 {
+    font-weight: 700;
+    font-size: 3rem;
+    text-transform: uppercase;
+}
+.btn.btn-success {
+    background-color: transparent;
+    border: 2px solid white;
+    padding: 15px 25px; 
+    font-size: 1.2rem;
+}
+
+
+.copyright{
+    color: white;    
+    background-color: #1A252F;
+}
+
+.bottom-footer {
+    background-color: #2C3E50;    
+}
+/* 
+.row.col-md-4.text-center {
+    color: whitesmoke;
+} */
+
+.epicenter {
+    color: whitesmoke;
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+.footer {
+    font-size: 1.4rem;
+    color: whitesmoke;
+    text-align: center;
+}
+
+.border-bottom-1 {
+    border-bottom: 1px solid black !important;
+}
+
+form {
+    margin-top :100px !important;
+    margin-bottom : 150px !important;
+}
+form button {
+    background-color: transparent;
+    color: #1abc9c;
+    padding: 15px 25px; 
+}
+.sticky {
+    position: -webkit-sticky;
+    position: -moz-sticky;
+    position: -ms-sticky;
+    position: -o-sticky;
+    position: sticky;
+    top: -1px;
+    z-index: 100;
+}
+
+.bg-light {
+    background-color: #2C3E50 !important;
+}
+ 
+.navbar-brand { 
+    
+}
+
+.navbar-light .navbar-brand {
+    color: white;
+    font-weight: 700;
+    font-size: 2rem;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    background-color: #1ABC9C;
+}
+
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: whitesmoke;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+    font-size: 1.2rem;
+    font-weight: 700;
+    padding: 15px;
+}
+
+form button {
+    text-decoration: none;
+    font-weight: bolder;
+    background-color: #1ABC9C;
+    color: white;
+    border-radius: 10px;
+}
+.bar {
+    width: 100px;
+    height: 5px;
+    border-radius: 2px;
+    text-align: center;
+    background-color: #1A252F; 
+
+}
+/* 
+.bar , .daivik {
+    background-color: #1A252F;
+    color: #1A252F;
+}
+
+.bar-v2 , .daivik-v2 {
+    background-color: whitesmoke;
+    color: whitesmoke;
+} */
+.daivik {
+    
+    text-align: center;
+    width: 100%;
+    font-size: 2rem;
+    height: 50px;
+}
